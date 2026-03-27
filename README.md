@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Julieta-Anahi-Lopez
-- 👀 I am interested in developing as a programmer in the area of Data Analysis. Another subject that interests me a lot is Web Development.
-- 🌱 I’m currently learning HTML, CCS and Javascript.Also I'm studing at UPSO University where we use mainly Python.
-- 💞️ I’m looking to collaborate on any project as a trainee because I'm eager to start programming with others. Especially those involving Data Analysis and Machine Learning
-- 📫 How to reach me: lopez.julietaanahi@gmail.com | www.linkedin.com/in/julieta--anahi--lopez
+👋 Hi, I'm Julieta Anahí López — Backend Developer based in Bahía Blanca, Argentina.
 
+🔭 I currently work as a Backend Developer at the Municipality of Bahía Blanca,
+   building REST APIs and microservices with Python, Django REST Framework,
+   PostgreSQL and Docker.
 
+🛠️ I also work on freelance projects involving full-stack integrations
+   (DRF + Next.js + TypeScript) for local businesses.
 
-<!---
-Julieta-Anahi-Lopez/Julieta-Anahi-Lopez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📚 Currently enrolled in a Postgraduate Diploma in Artificial Intelligence
+   at Instituto Humai.
+
+⚠️ Most of my work lives in private repositories due to institutional
+   and client confidentiality.
+
+📫 Reach me at: lopez.julietaanahi@gmail.com
+🔗 LinkedIn: linkedin.com/in/julieta-anahi-lopez
